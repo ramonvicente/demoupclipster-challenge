@@ -1,6 +1,6 @@
-package com.ramonvicente;
+package com.ramonvicente.task1;
 
-public class LegacySort {
+public class LegacyAlgorithm {
 
     public static Comparable[] sort(Comparable[] array) {
         if(array == null)
