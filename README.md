@@ -22,5 +22,5 @@ It is the merge sort algorithm.
 * Reuse the same input for all the different sorts will make some of the algorithms perform better than the others. Since they change the existing array the last algorithm to be called will get the array already sorted, so maybe to compare the real performance of each one for a specific scenario would be better have different runners for each one or different inputs.
 
 ## Side notes:
-Thank you for this challenge, it was fun and interesting to working on it. 
-I had some difficult to understand some of the questions, so my answers was based on what I understood.
+Thank you for this challenge, it was fun and interesting to work on it. 
+I had some  difficulty understanding some of the questions, so my answers were based on what I understood.

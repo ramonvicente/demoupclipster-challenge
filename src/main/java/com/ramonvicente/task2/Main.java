@@ -1,10 +1,6 @@
 package com.ramonvicente.task2;
 
-import com.ramonvicente.task1.RefactoredAlgorithm;
-
-import java.io.File;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.Random;
 
 public class Main {
